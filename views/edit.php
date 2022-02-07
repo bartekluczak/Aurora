@@ -20,7 +20,7 @@ session_start();
     include_once('../views/forms/editProductForm.php');
     ?>
     <div class="d-flex justify-content-center">
-        <a href="<?php echo ROOT ?>index.php"><button type="button" class="btn btn-outline-secondary" style="width: 200px;">Wstecz</button></a>
+        <a href="index.php"><button type="button" class="btn btn-outline-secondary" style="width: 200px;">Wstecz</button></a>
     </div>
     <?php
     include_once('../views/footer.php')

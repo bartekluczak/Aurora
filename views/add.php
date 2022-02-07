@@ -20,7 +20,7 @@ session_start();
     ?>
 
     <div class="d-flex justify-content-center">
-        <a href="<?php echo ROOT ?>index.php"><button type="button" class="btn btn-outline-secondary" style="width: 200px;">Wstecz</button></a>
+        <a href="index.php"><button type="button" class="btn btn-outline-secondary" style="width: 200px;">Wstecz</button></a>
     </div>
 
     <?php

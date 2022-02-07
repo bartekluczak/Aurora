@@ -39,7 +39,7 @@ session_start();
                     varius leo id tincidunt. Aliquam sed neque magna.
                 </p>
                 <p class="d-flex justify-content-center mt-5"><a href="views/add.php"><button type="button" class="btn btn-outline-secondary" style="width: 200px;">Dodaj nowy</button></a></p>
-                <p class="d-flex justify-content-center"><a href="views/edit.php"><button type="button" class="btn btn-outline-secondary" style="width: 200px;">Wyświetl produkty</button></a></p>
+                <p class="d-flex justify-content-center"><a href="views/list.php"><button type="button" class="btn btn-outline-secondary" style="width: 200px;">Wyświetl produkty</button></a></p>
 
             </div>
         </div>
